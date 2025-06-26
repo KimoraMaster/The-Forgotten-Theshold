@@ -1,0 +1,23 @@
+body {
+  font-family: Georgia, serif;
+  background-color: #111;
+  color: #e2e2e2;
+  padding: 40px;
+  text-align: center;
+}
+
+#game {
+  max-width: 600px;
+  margin: auto;
+}
+
+button {
+  background: #444;
+  color: white;
+  padding: 10px 20px;
+  margin: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
